@@ -1,0 +1,5 @@
+#Venv files
+venv/**
+
+#.vscode folder
+.vscode/**
